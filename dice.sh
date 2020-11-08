@@ -9,5 +9,7 @@ case $diceNum in
 		;;
 	4) echo "Fourth Face"
 		;;
+	5) echo "Fifth Face"
+		;;
 	*) echo "Not in 1 to 6"
 esac
